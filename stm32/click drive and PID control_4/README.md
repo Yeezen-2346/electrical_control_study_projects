@@ -1,6 +1,16 @@
 # 任务完成简述
+硬件连接
+
+
+https://github.com/user-attachments/assets/9879e849-074b-4850-bba3-b201759cbbaf
+
 
 ## 任务一 硬件搭建与开环控制
+
+
+
+https://github.com/user-attachments/assets/30ef75f3-2952-4914-85ab-acacd0de390d
+
 
 正确连接 STM32、TB6612、电机及供电模块，使用 PWM 实现：
 
@@ -16,7 +26,11 @@
 	| d    | 反转，45% PWM |
 	| x    | 停止          |
 
-![1](C:\Users\ChenYizhen\Desktop\projects\electrical_control_study_projects\stm32\click drive and PID control_4\1.png)
+![1](C:\Users\ChenYizhen\Desktop\projects\electrical_control_study_projects\stm32\click drive and PI
+
+https://github.com/user-attachments/assets/f997397d-0aad-440d-be2d-14c7ad093c73
+
+D control_4\1.png)
 
 ![2](C:\Users\ChenYizhen\Desktop\projects\electrical_control_study_projects\stm32\click drive and PID control_4\3.png)
 
@@ -27,6 +41,14 @@
 
 
 ## 任务二 编码器读取
+
+
+
+https://github.com/user-attachments/assets/07764341-882f-4a43-8723-7b48c19f8bdc
+
+
+
+
 
 使用 STM32 定时器编码器模式读取反馈数据：
 
@@ -51,6 +73,16 @@
 
 
 ## 任务三 PID 位置闭环
+
+https://github.com/user-attachments/assets/d4da0525-f2d5-4085-a1de-ef82fbf96c38
+
+
+
+
+https://github.com/user-attachments/assets/cfe5f476-7437-49be-8665-2daac4b471cc
+
+
+
 
 使用 C/C++ 实现位置式 PID，并完成电机位置闭环：
 
